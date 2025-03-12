@@ -1,0 +1,23 @@
+# Qt build files
+*.pro.user
+*.pro.user.*
+*.pro~
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.exp
+*.sln
+*.vcxproj*
+*.DS_Store
+build-*/
+debug/
+release/
+moc_*/
+qrc_*/
+ui_*/
+*.qmlc
+*.qmake.stash
+CMakeLists.txt.user

@@ -1,0 +1,23 @@
+# ninja log v5
+3	16	0	CMakeFiles/clean.additional	ef993b15a92b8f11
+2033	2309	1740229167430539393	server-v0	67e2e09b1344f8a3
+212	1898	1740200392678092380	CMakeFiles/server-v0.dir/server-v0_autogen/mocs_compilation.cpp.o	1b96daf662e843dd
+213	1940	1740200392721090438	CMakeFiles/server-v0.dir/main.cpp.o	60f93a893151d29d
+15	94	1740229165218659643	/home/ubuntu/Documents/DCMS-versions/server-v0/build/Desktop-Debug/server-v0_autogen/mocs_compilation.cpp	145185a35d3ae4d8
+15	94	1740229165218659643	/home/ubuntu/Documents/DCMS-versions/server-v0/build/Desktop-Debug/server-v0_autogen/timestamp	145185a35d3ae4d8
+17	20	0	clean	a31eedcededa8236
+96	2033	1740229167133421682	CMakeFiles/server-v0.dir/server.cpp.o	ea0dacf9b7f76843
+15	94	1740229165218659643	server-v0_autogen/mocs_compilation.cpp	145185a35d3ae4d8
+15	94	1740229165218659643	server-v0_autogen/timestamp	145185a35d3ae4d8
+2	33	1740802263753107420	server-v0_autogen/timestamp	145185a35d3ae4d8
+2	33	1740802263753107420	server-v0_autogen/mocs_compilation.cpp	145185a35d3ae4d8
+2	33	1740802263753107420	/home/ubuntu/Documents/DCMS-versions/server-v0/build/Desktop-Debug/server-v0_autogen/timestamp	145185a35d3ae4d8
+2	33	1740802263753107420	/home/ubuntu/Documents/DCMS-versions/server-v0/build/Desktop-Debug/server-v0_autogen/mocs_compilation.cpp	145185a35d3ae4d8
+34	55	1740802263774107563	CMakeFiles/server-v0.dir/server.cpp.o	ea0dacf9b7f76843
+55	307	1740802264024109259	server-v0	67e2e09b1344f8a3
+10	86	1741776635028365747	server-v0_autogen/timestamp	145185a35d3ae4d8
+10	86	1741776635028365747	server-v0_autogen/mocs_compilation.cpp	145185a35d3ae4d8
+10	86	1741776635028365747	/home/ubuntu/Documents/DCMS-versions/server-v0/build/Desktop-Debug/server-v0_autogen/timestamp	145185a35d3ae4d8
+10	86	1741776635028365747	/home/ubuntu/Documents/DCMS-versions/server-v0/build/Desktop-Debug/server-v0_autogen/mocs_compilation.cpp	145185a35d3ae4d8
+88	145	1741776635085350719	CMakeFiles/server-v0.dir/server.cpp.o	ea0dacf9b7f76843
+145	819	1741776635751175126	server-v0	67e2e09b1344f8a3
