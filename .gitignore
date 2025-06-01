@@ -21,5 +21,5 @@ ui_*/
 *.qmlc
 *.qmake.stash
 CMakeLists.txt.user
-config.txt
+*config.txt
 build/
