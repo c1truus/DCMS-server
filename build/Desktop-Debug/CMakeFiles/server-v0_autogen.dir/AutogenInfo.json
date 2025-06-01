@@ -127,13 +127,26 @@
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Sql/Qt6SqlTargets-none.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Sql/Qt6SqlAdditionalTargetInfo.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Sql/Qt6SqlVersionlessTargets.cmake",
-		"/usr/share/cmake-3.28/Modules/GNUInstallDirs.cmake"
+		"/usr/share/cmake-3.28/Modules/GNUInstallDirs.cmake",
+		"/home/ubuntu/Documents/DCMS-versions/server-v0/idoknow.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "/home/ubuntu/Documents/DCMS-versions/server-v0",
 	"DEP_FILE" : "/home/ubuntu/Documents/DCMS-versions/server-v0/build/Desktop-Debug/server-v0_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "server-v0_autogen/timestamp",
 	"HEADERS" : 
 	[
+		[
+			"/home/ubuntu/Documents/DCMS-versions/server-v0/config.h",
+			"MU",
+			"EWIEGA46WW/moc_config.cpp",
+			null
+		],
+		[
+			"/home/ubuntu/Documents/DCMS-versions/server-v0/debugutils.h",
+			"MU",
+			"EWIEGA46WW/moc_debugutils.cpp",
+			null
+		],
 		[
 			"/home/ubuntu/Documents/DCMS-versions/server-v0/server.h",
 			"MU",
@@ -199,6 +212,16 @@
 	"SETTINGS_FILE" : "/home/ubuntu/Documents/DCMS-versions/server-v0/build/Desktop-Debug/CMakeFiles/server-v0_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"/home/ubuntu/Documents/DCMS-versions/server-v0/config.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/ubuntu/Documents/DCMS-versions/server-v0/debugutils.cpp",
+			"MU",
+			null
+		],
 		[ "/home/ubuntu/Documents/DCMS-versions/server-v0/main.cpp", "MU", null ],
 		[
 			"/home/ubuntu/Documents/DCMS-versions/server-v0/server.cpp",

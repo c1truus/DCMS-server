@@ -15,6 +15,9 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core Network Sql)
 add_executable(server-v0
   main.cpp
   server.h server.cpp
+  debugutils.h debugutils.cpp
+  config.h config.cpp
+  idoknow.qrc
 )
 target_link_libraries(server-v0 Qt${QT_VERSION_MAJOR}::Core Qt${QT_VERSION_MAJOR}::Network Qt${QT_VERSION_MAJOR}::Sql)
 

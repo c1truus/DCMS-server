@@ -4,7 +4,9 @@
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
+#ifdef DEBUG
     qDebug() << "Available drivers:" << QSqlDatabase::drivers();
+#endif
     Server s;
     s.startServer();
     return a.exec();

@@ -1,0 +1,6 @@
+# config.txt
+host=10.7.132.172
+port=12345
+dbname=DCDB
+dbuser=admin
+dbpass=opensesame42!
